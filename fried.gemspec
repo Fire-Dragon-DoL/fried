@@ -8,6 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Fried::VERSION
   spec.authors       = ["Fire-Dragon-DoL"]
   spec.email         = ["francesco.belladonna@gmail.com"]
+  spec.licenses      = ["MIT"]
 
   spec.summary       = %q{Metapackage for ruby utilities library prefixed with fried-}
   spec.description   = %q{Metapackage for ruby utilities library prefixed with fried-}
