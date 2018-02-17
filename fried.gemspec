@@ -28,6 +28,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake"
 
   spec.add_runtime_dependency "fried-core"
-  spec.add_runtime_dependency "fried-typings"
+  spec.add_runtime_dependency "fried-call"
+  spec.add_runtime_dependency "fried-dependency"
   spec.add_runtime_dependency "fried-schema"
+  spec.add_runtime_dependency "fried-typings"
 end
